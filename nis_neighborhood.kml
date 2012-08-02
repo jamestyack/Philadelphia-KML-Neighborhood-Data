@@ -15,6 +15,7 @@
   	<Style>
 		<LineStyle>
 			<color>50785A00</color>
+			<width>4</width>
 			<gx:labelVisibility>1</gx:labelVisibility>
 		</LineStyle>
 		<PolyStyle>
