@@ -12,7 +12,7 @@
 </Schema>
   <Placemark>
 	<name>KENSINGTON</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">KENSINGTON</SimpleData>
 		<SimpleData name="OBJECTID">1</SimpleData>
@@ -25,7 +25,7 @@
   </Placemark>
   <Placemark>
 	<name>RICHMOND</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">RICHMOND</SimpleData>
 		<SimpleData name="OBJECTID">2</SimpleData>
@@ -38,7 +38,7 @@
   </Placemark>
   <Placemark>
 	<name>ALLEGHENY_WEST</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">ALLEGHENY_WEST</SimpleData>
 		<SimpleData name="OBJECTID">3</SimpleData>
@@ -51,7 +51,7 @@
   </Placemark>
   <Placemark>
 	<name>MANTUA</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">MANTUA</SimpleData>
 		<SimpleData name="OBJECTID">4</SimpleData>
@@ -64,7 +64,7 @@
   </Placemark>
   <Placemark>
 	<name>BREWERYTOWN</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">BREWERYTOWN</SimpleData>
 		<SimpleData name="OBJECTID">5</SimpleData>
@@ -77,7 +77,7 @@
   </Placemark>
   <Placemark>
 	<name>BRIDESBURG</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">BRIDESBURG</SimpleData>
 		<SimpleData name="OBJECTID">6</SimpleData>
@@ -90,7 +90,7 @@
   </Placemark>
   <Placemark>
 	<name>BUSTLETON</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">BUSTLETON</SimpleData>
 		<SimpleData name="OBJECTID">7</SimpleData>
@@ -103,7 +103,7 @@
   </Placemark>
   <Placemark>
 	<name>BYBERRY</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">BYBERRY</SimpleData>
 		<SimpleData name="OBJECTID">8</SimpleData>
@@ -116,7 +116,7 @@
   </Placemark>
   <Placemark>
 	<name>CEDAR_PARK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">CEDAR_PARK</SimpleData>
 		<SimpleData name="OBJECTID">9</SimpleData>
@@ -129,7 +129,7 @@
   </Placemark>
   <Placemark>
 	<name>CEDARBROOK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">CEDARBROOK</SimpleData>
 		<SimpleData name="OBJECTID">10</SimpleData>
@@ -142,7 +142,7 @@
   </Placemark>
   <Placemark>
 	<name>CENTER_CITY_EAST</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">CENTER_CITY_EAST</SimpleData>
 		<SimpleData name="OBJECTID">11</SimpleData>
@@ -155,7 +155,7 @@
   </Placemark>
   <Placemark>
 	<name>CENTER_CITY_WEST</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">CENTER_CITY_WEST</SimpleData>
 		<SimpleData name="OBJECTID">12</SimpleData>
@@ -168,7 +168,7 @@
   </Placemark>
   <Placemark>
 	<name>CHESTNUT_HILL</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">CHESTNUT_HILL</SimpleData>
 		<SimpleData name="OBJECTID">13</SimpleData>
@@ -181,7 +181,7 @@
   </Placemark>
   <Placemark>
 	<name>COBBS_CREEK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">COBBS_CREEK</SimpleData>
 		<SimpleData name="OBJECTID">14</SimpleData>
@@ -194,7 +194,7 @@
   </Placemark>
   <Placemark>
 	<name>EAST_GERMANTOWN</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">EAST_GERMANTOWN</SimpleData>
 		<SimpleData name="OBJECTID">15</SimpleData>
@@ -207,7 +207,7 @@
   </Placemark>
   <Placemark>
 	<name>EAST_FALLS</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">EAST_FALLS</SimpleData>
 		<SimpleData name="OBJECTID">16</SimpleData>
@@ -220,7 +220,7 @@
   </Placemark>
   <Placemark>
 	<name>EAST_MOUNT_AIRY</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">EAST_MOUNT_AIRY</SimpleData>
 		<SimpleData name="OBJECTID">17</SimpleData>
@@ -233,7 +233,7 @@
   </Placemark>
   <Placemark>
 	<name>EAST_OAK_LANE</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">EAST_OAK_LANE</SimpleData>
 		<SimpleData name="OBJECTID">18</SimpleData>
@@ -246,7 +246,7 @@
   </Placemark>
   <Placemark>
 	<name>EASTWICK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">EASTWICK</SimpleData>
 		<SimpleData name="OBJECTID">19</SimpleData>
@@ -259,7 +259,7 @@
   </Placemark>
   <Placemark>
 	<name>ELMWOOD</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">ELMWOOD</SimpleData>
 		<SimpleData name="OBJECTID">20</SimpleData>
@@ -272,7 +272,7 @@
   </Placemark>
   <Placemark>
 	<name>FAIRHILL</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">FAIRHILL</SimpleData>
 		<SimpleData name="OBJECTID">21</SimpleData>
@@ -285,7 +285,7 @@
   </Placemark>
   <Placemark>
 	<name>FAIRMOUNT</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">FAIRMOUNT</SimpleData>
 		<SimpleData name="OBJECTID">22</SimpleData>
@@ -298,7 +298,7 @@
   </Placemark>
   <Placemark>
 	<name>FISHTOWN</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">FISHTOWN</SimpleData>
 		<SimpleData name="OBJECTID">23</SimpleData>
@@ -311,7 +311,7 @@
   </Placemark>
   <Placemark>
 	<name>FOX_CHASE</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">FOX_CHASE</SimpleData>
 		<SimpleData name="OBJECTID">24</SimpleData>
@@ -324,7 +324,7 @@
   </Placemark>
   <Placemark>
 	<name>FRANKFORD</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">FRANKFORD</SimpleData>
 		<SimpleData name="OBJECTID">25</SimpleData>
@@ -337,7 +337,7 @@
   </Placemark>
   <Placemark>
 	<name>GERMANTOWN</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">GERMANTOWN</SimpleData>
 		<SimpleData name="OBJECTID">26</SimpleData>
@@ -350,7 +350,7 @@
   </Placemark>
   <Placemark>
 	<name>GIRARD_ESTATES</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">GIRARD_ESTATES</SimpleData>
 		<SimpleData name="OBJECTID">27</SimpleData>
@@ -363,7 +363,7 @@
   </Placemark>
   <Placemark>
 	<name>GRAYS_FERRY</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">GRAYS_FERRY</SimpleData>
 		<SimpleData name="OBJECTID">28</SimpleData>
@@ -376,7 +376,7 @@
   </Placemark>
   <Placemark>
 	<name>HADDINGTON</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">HADDINGTON</SimpleData>
 		<SimpleData name="OBJECTID">29</SimpleData>
@@ -389,7 +389,7 @@
   </Placemark>
   <Placemark>
 	<name>HARROWGATE</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">HARROWGATE</SimpleData>
 		<SimpleData name="OBJECTID">30</SimpleData>
@@ -402,7 +402,7 @@
   </Placemark>
   <Placemark>
 	<name>HARTRANFT</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">HARTRANFT</SimpleData>
 		<SimpleData name="OBJECTID">31</SimpleData>
@@ -415,7 +415,7 @@
   </Placemark>
   <Placemark>
 	<name>HOLMESBURG</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">HOLMESBURG</SimpleData>
 		<SimpleData name="OBJECTID">32</SimpleData>
@@ -428,7 +428,7 @@
   </Placemark>
   <Placemark>
 	<name>HUNTING_PARK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">HUNTING_PARK</SimpleData>
 		<SimpleData name="OBJECTID">33</SimpleData>
@@ -441,7 +441,7 @@
   </Placemark>
   <Placemark>
 	<name>JUNIATA_PARK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">JUNIATA_PARK</SimpleData>
 		<SimpleData name="OBJECTID">34</SimpleData>
@@ -454,7 +454,7 @@
   </Placemark>
   <Placemark>
 	<name>KINGSESSING</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">KINGSESSING</SimpleData>
 		<SimpleData name="OBJECTID">35</SimpleData>
@@ -467,7 +467,7 @@
   </Placemark>
   <Placemark>
 	<name>LAWNCREST</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">LAWNCREST</SimpleData>
 		<SimpleData name="OBJECTID">36</SimpleData>
@@ -480,7 +480,7 @@
   </Placemark>
   <Placemark>
 	<name>LOGAN</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">LOGAN</SimpleData>
 		<SimpleData name="OBJECTID">37</SimpleData>
@@ -493,7 +493,7 @@
   </Placemark>
   <Placemark>
 	<name>MANAYUNK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">MANAYUNK</SimpleData>
 		<SimpleData name="OBJECTID">38</SimpleData>
@@ -506,7 +506,7 @@
   </Placemark>
   <Placemark>
 	<name>PACKER_PARK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">PACKER_PARK</SimpleData>
 		<SimpleData name="OBJECTID">39</SimpleData>
@@ -519,7 +519,7 @@
   </Placemark>
   <Placemark>
 	<name>MAYFAIR</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">MAYFAIR</SimpleData>
 		<SimpleData name="OBJECTID">40</SimpleData>
@@ -532,7 +532,7 @@
   </Placemark>
   <Placemark>
 	<name>MILL_CREEK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">MILL_CREEK</SimpleData>
 		<SimpleData name="OBJECTID">41</SimpleData>
@@ -545,7 +545,7 @@
   </Placemark>
   <Placemark>
 	<name>NORTH_CENTRAL</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">NORTH_CENTRAL</SimpleData>
 		<SimpleData name="OBJECTID">42</SimpleData>
@@ -558,7 +558,7 @@
   </Placemark>
   <Placemark>
 	<name>OGONTZ</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">OGONTZ</SimpleData>
 		<SimpleData name="OBJECTID">43</SimpleData>
@@ -571,7 +571,7 @@
   </Placemark>
   <Placemark>
 	<name>OLNEY</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">OLNEY</SimpleData>
 		<SimpleData name="OBJECTID">44</SimpleData>
@@ -584,7 +584,7 @@
   </Placemark>
   <Placemark>
 	<name>OVERBROOK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">OVERBROOK</SimpleData>
 		<SimpleData name="OBJECTID">45</SimpleData>
@@ -597,7 +597,7 @@
   </Placemark>
   <Placemark>
 	<name>OXFORD_CIRCLE</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">OXFORD_CIRCLE</SimpleData>
 		<SimpleData name="OBJECTID">46</SimpleData>
@@ -610,7 +610,7 @@
   </Placemark>
   <Placemark>
 	<name>PENNSPORT</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">PENNSPORT</SimpleData>
 		<SimpleData name="OBJECTID">47</SimpleData>
@@ -623,7 +623,7 @@
   </Placemark>
   <Placemark>
 	<name>ACADEMY_GARDENS</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">ACADEMY_GARDENS</SimpleData>
 		<SimpleData name="OBJECTID">48</SimpleData>
@@ -636,7 +636,7 @@
   </Placemark>
   <Placemark>
 	<name>PENNYPACKER_PARK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">PENNYPACKER_PARK</SimpleData>
 		<SimpleData name="OBJECTID">49</SimpleData>
@@ -649,7 +649,7 @@
   </Placemark>
   <Placemark>
 	<name>POINT_BREEZE</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">POINT_BREEZE</SimpleData>
 		<SimpleData name="OBJECTID">50</SimpleData>
@@ -662,7 +662,7 @@
   </Placemark>
   <Placemark>
 	<name>POPLAR</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">POPLAR</SimpleData>
 		<SimpleData name="OBJECTID">51</SimpleData>
@@ -675,7 +675,7 @@
   </Placemark>
   <Placemark>
 	<name>POWELTON</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">POWELTON</SimpleData>
 		<SimpleData name="OBJECTID">52</SimpleData>
@@ -688,7 +688,7 @@
   </Placemark>
   <Placemark>
 	<name>RHAWNHURST</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">RHAWNHURST</SimpleData>
 		<SimpleData name="OBJECTID">53</SimpleData>
@@ -701,7 +701,7 @@
   </Placemark>
   <Placemark>
 	<name>ROXBOROUGH</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">ROXBOROUGH</SimpleData>
 		<SimpleData name="OBJECTID">54</SimpleData>
@@ -714,7 +714,7 @@
   </Placemark>
   <Placemark>
 	<name>SCHUYLKILL_SOUTHWEST</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">SCHUYLKILL_SOUTHWEST</SimpleData>
 		<SimpleData name="OBJECTID">55</SimpleData>
@@ -727,7 +727,7 @@
   </Placemark>
   <Placemark>
 	<name>SOMERTON</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">SOMERTON</SimpleData>
 		<SimpleData name="OBJECTID">56</SimpleData>
@@ -740,7 +740,7 @@
   </Placemark>
   <Placemark>
 	<name>SOUTH_PHILADELPHIA</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">SOUTH_PHILADELPHIA</SimpleData>
 		<SimpleData name="OBJECTID">57</SimpleData>
@@ -753,7 +753,7 @@
   </Placemark>
   <Placemark>
 	<name>STRAWBERRY_MANSION</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">STRAWBERRY_MANSION</SimpleData>
 		<SimpleData name="OBJECTID">58</SimpleData>
@@ -766,7 +766,7 @@
   </Placemark>
   <Placemark>
 	<name>TACONY</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">TACONY</SimpleData>
 		<SimpleData name="OBJECTID">59</SimpleData>
@@ -779,7 +779,7 @@
   </Placemark>
   <Placemark>
 	<name>TIOGA</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">TIOGA</SimpleData>
 		<SimpleData name="OBJECTID">60</SimpleData>
@@ -792,7 +792,7 @@
   </Placemark>
   <Placemark>
 	<name>UNIVERSITY_CITY</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">UNIVERSITY_CITY</SimpleData>
 		<SimpleData name="OBJECTID">61</SimpleData>
@@ -805,7 +805,7 @@
   </Placemark>
   <Placemark>
 	<name>WEST_KENSINGTON</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">WEST_KENSINGTON</SimpleData>
 		<SimpleData name="OBJECTID">62</SimpleData>
@@ -818,7 +818,7 @@
   </Placemark>
   <Placemark>
 	<name>WEST_MOUNT_AIRY</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">WEST_MOUNT_AIRY</SimpleData>
 		<SimpleData name="OBJECTID">63</SimpleData>
@@ -831,7 +831,7 @@
   </Placemark>
   <Placemark>
 	<name>WEST_OAK_LANE</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">WEST_OAK_LANE</SimpleData>
 		<SimpleData name="OBJECTID">64</SimpleData>
@@ -844,7 +844,7 @@
   </Placemark>
   <Placemark>
 	<name>WEST_TORRESDALE</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">WEST_TORRESDALE</SimpleData>
 		<SimpleData name="OBJECTID">65</SimpleData>
@@ -857,7 +857,7 @@
   </Placemark>
   <Placemark>
 	<name>BELLA_VISTA</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">BELLA_VISTA</SimpleData>
 		<SimpleData name="OBJECTID">66</SimpleData>
@@ -870,7 +870,7 @@
   </Placemark>
   <Placemark>
 	<name>WISSAHICKON_PARK</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">WISSAHICKON_PARK</SimpleData>
 		<SimpleData name="OBJECTID">67</SimpleData>
@@ -883,7 +883,7 @@
   </Placemark>
   <Placemark>
 	<name>WYNNEFIELD</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">WYNNEFIELD</SimpleData>
 		<SimpleData name="OBJECTID">68</SimpleData>
@@ -896,7 +896,7 @@
   </Placemark>
   <Placemark>
 	<name>RIVERFRONT</name>
-  <Style><LineStyle><color>0099FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
+  <Style><LineStyle><color>0033FF</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">RIVERFRONT</SimpleData>
 		<SimpleData name="OBJECTID">69</SimpleData>
