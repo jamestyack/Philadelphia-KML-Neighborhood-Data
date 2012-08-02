@@ -12,7 +12,7 @@
 </Schema>
   <Placemark>
 	<name>KENSINGTON</name>
-  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>0</fill></PolyStyle></Style>
+  <Style><LineStyle><color>ff0000ff</color></LineStyle>  <PolyStyle><fill>1</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#nis_neighborhood">
 		<SimpleData name="Name">KENSINGTON</SimpleData>
 		<SimpleData name="OBJECTID">1</SimpleData>
